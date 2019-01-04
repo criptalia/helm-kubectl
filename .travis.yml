@@ -1,7 +1,7 @@
 sudo: required
 
 env:
-  DOCKER_IMAGE=dtzar/helm-kubectl
+  DOCKER_IMAGE=criptalia/helm-kubectl-iam
   DOCKER_TAG=2.12.1
 
 services:
